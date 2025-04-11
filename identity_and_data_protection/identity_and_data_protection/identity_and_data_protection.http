@@ -1,0 +1,6 @@
+@identity_and_data_protection_HostAddress = http://localhost:5299
+
+GET {{identity_and_data_protection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
